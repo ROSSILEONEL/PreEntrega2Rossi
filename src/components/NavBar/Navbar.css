@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.div-navBar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    /* min-width: 100%; */
+    background-color: rgb(12, 12, 12);
+}
+
+.nav-logo{
+    font-weight: 700;
+    font-size: 21px;
+    margin: 15px;
+}
+
+
+.nav-bar{
+    
+margin-top: 0cm;
+}
+.ul-navBar{
+    list-style: none;
+    min-width: 40%;
+    margin-right: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.nav-items{
+    color: rgb(135, 185, 228);
+    font-size: 16px;
+text-decoration: none;
+margin: 15px;
+position: relative;
+opacity: 0.9;
+}
