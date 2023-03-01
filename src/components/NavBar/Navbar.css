@@ -10,14 +10,13 @@
     height: 60px;
     /* min-width: 100%; */
     background-color: rgb(12, 12, 12);
+    padding-right: 20;
 }
 
-.nav-logo{
-    font-weight: 700;
-    font-size: 21px;
-    margin: 15px;
-}
 
+.hardcode{
+    font-size: 8;
+}
 
 .nav-bar{
     
